@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1094118848088",
+    "firebase_url": "https://healthcare-d3f28.firebaseio.com",
+    "project_id": "healthcare-d3f28",
+    "storage_bucket": "healthcare-d3f28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094118848088:android:f5d1a22a64fbbc62f9fc2d",
+        "android_client_info": {
+          "package_name": "ua.nure.healthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094118848088-eukonnntjb3i2rtsvg97e8kv4m3ggq5e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVX-kTTvqsKN1WGHtZPDrMWDFtLMyKnwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094118848088-eukonnntjb3i2rtsvg97e8kv4m3ggq5e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
